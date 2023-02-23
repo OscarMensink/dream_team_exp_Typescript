@@ -118,7 +118,7 @@ export default function Home() {
 					</Link>
 
 					<Link
-						href="/Gust"
+						href="/gust"
 						className={styles.card}
 						target="_blank"
 						rel="noopener noreferrer"
