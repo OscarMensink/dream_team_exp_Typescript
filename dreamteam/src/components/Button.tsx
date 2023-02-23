@@ -12,6 +12,7 @@ export interface ButtonProps
 	wierdassString?: string; //Note the question mark here. This means that this prop is optional. Which needs to be considered in the component. If not present it will return a null. If you use this value, ensure you have an if statement to deal with the null.
 }
 
+
 //This is a 'functional' component. which means it needs input. In brackets ( and { the used props should be shown. In this case we are using the interface ButtonProps.
 //Note that we have to export our function. Otherwise importing won't work elsewhere.
 //You can export multiple components from a single file. But it is best practice to keep them in separate files.
