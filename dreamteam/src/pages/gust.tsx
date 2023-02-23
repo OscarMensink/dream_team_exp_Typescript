@@ -17,6 +17,7 @@ function Gust() {
 			<DivContainer><h1>Gust</h1></DivContainer>
 			<Link
 				href="/secondary_pages/gust2"
+				as = "/gust2"
 				className={styles.card}
 				rel="noopener noreferrer"
 			>

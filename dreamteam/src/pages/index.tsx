@@ -120,7 +120,6 @@ export default function Home() {
 					<Link
 						href="/gust"
 						className={styles.card}
-						target="_blank"
 						rel="noopener noreferrer"
 					>
 						<h2 className={inter.className}>
