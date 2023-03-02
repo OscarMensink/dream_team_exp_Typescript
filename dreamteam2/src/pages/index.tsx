@@ -112,12 +112,11 @@ export default function Home() {
 					<Link
 						href="/gust"
 						className={styles.card}
-						target="_blank"
 						rel="noopener noreferrer"
 					>
 						<h2 className={inter.className}>Gust </h2>
 						<p className={inter.className}>
-							Add something cool here to practice a merge REQUEST
+							NSFW page don't go here.
 						</p>
 					</Link>
 
